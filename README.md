@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Osama-Elzekred , I’m Computer engineering student at Mansoura University 
+- 👋 Hi, I’m @Osama-Elzekred , I’m Computer engineering student 
 - 👀 I’m interested in Back-end and software engieering 
 - 🌱 I’m currently learning DataBases using MySql 
 - 💞️ I’m looking to collaborate on buliding more projects  
